@@ -1,0 +1,22 @@
+{
+  "name": "samplenodecli",
+  "version": "0.0.1",
+  "description": "Test CLI module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmil7/sampleNodeCLI.git"
+  },
+  "bin": {
+    "my-cli": "./cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmil7/sampleNodeCLI/issues"
+  },
+  "homepage": "https://github.com/maxmil7/sampleNodeCLI#readme"
+}
